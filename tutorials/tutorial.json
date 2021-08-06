@@ -1,5 +1,8 @@
 {
-  "tutorial": {
+  "Friend Check": {
     "title": "Friend Check"
+  },
+  "playerData": {
+    "title": "Getting a player's hypixel data."
   }
 }
