@@ -1,4 +1,3 @@
-#hypixel.js
 Welcome to the official hypixel.js documentation.
 Hypixel.js is a new and powerful [Hypixel API](https://api.hypixel.net) wrapper which makes the hypixel api easy to use.
 
