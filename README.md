@@ -2,7 +2,7 @@ Welcome to the official hypixel.js documentation.
 Hypixel.js is a new and powerful [Hypixel API](https://api.hypixel.net) wrapper which makes the hypixel api easy to use.
 
 ```js
-const api = require("hypixel.js")
+const api = require("@hypixel.js/hypixel.js")
 ```
 
 You can fetch your api key by going in game and typing "/api". An api key is ratelimited to 120 requests per minute and sharding is not allowed. Instead if you would like to make more requests, you need to contact the hypixel support desk and explain why you would like to exceed this limit.
