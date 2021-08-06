@@ -18,6 +18,6 @@ client.players.get('16751f79-c0b1-4e53-a0b5-90d31fc1d80d').then((player) => {
 })
 ```
 
-Congratulations! You just made your first app that can tell what version a player plays on! Refer to [`client.players`](PlayerManager.html) for more information on players, [`client.skyblock`](http://hypixeljs-docs.meltedglass.repl.co/Skyblock.html) for skyblock information, and [`client`](http://hypixeljs-docs.meltedglass.repl.co/Client.html) to see all of the client actions.
+Congratulations! You just made your first app that can tell what version a player plays on! Refer to [`client.players`](http://hypixeljs-docs.meltedglass.repl.co/PlayerManager.html) for more information on players, [`client.skyblock`](http://hypixeljs-docs.meltedglass.repl.co/Skyblock.html) for skyblock information, and [`client`](http://hypixeljs-docs.meltedglass.repl.co/Client.html) to see all of the client actions.
 
 You can check out the **full documentation** [`here`](http://hypixeljs-docs.meltedglass.repl.co/)
